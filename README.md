@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hello, I am Nishant 
+
 
 <!--
 **NishantChhattani/NishantChhattani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/NishantChhattani/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NishantChhattani&theme=tokyonight&show_icons=true" alt="Nishant's github stats" />
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantChhattani&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/NishantChhattani/github-readme-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NishantChhattani&theme=tokyonight" alt="NishantChhattani" /> </p>
+
