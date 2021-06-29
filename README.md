@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/NishantChhattani/github-readme-stats">
-  <img align="center" src="https://github-readme-stat.vercel.app/api?username=NishantChhattani&theme=tokyonight&show_icons=true" alt="Nishant's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NishantChhattani&theme=tokyonight&show_icons=true" alt="Nishant's github stats" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantChhattani&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/NishantChhattani/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantChhattani&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/NishantChhattan/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NishantChhattani&theme=tokyonight" alt="NishantChhattani" /> </p>
 
